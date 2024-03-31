@@ -174,3 +174,4 @@
 {"error":"{\"Error_GUID\":\"10388115497230044417\",\"Error\":\"Failed all retries {GUID:10388115497230044417,error:rpc error: code = Unknown desc = Failed to VerifyPairing for new consumer {Error:rpc error: code = InvalidArgument desc = invalid pairing data: VerifyPairing requested epoch is too new ErrMsg: cant get epoch start for future block {requested block:996660,requested epoch:996660,current epoch:996600}: cant get epoch start for future block: invalid request,GUID:10388115497230044417,sessionID:4135494105789762772,consumer:lava@1mh9d3vdthekxvc0aflnvzhurv2585aakzs9e3a,provider:lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99,relayNum:4,Providers block:996617},chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x6200f0fd6"}
 {"jsonrpc":"2.0","id":1,"result":"0x6c2856f0d"}
+{"jsonrpc":"2.0","id":1,"result":"0x55ba8d340"}
